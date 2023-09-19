@@ -1,22 +1,20 @@
-# Architect Website
-Fully responsive architect website using html, css and javascript.
+## Title:
+<h4>Oussama Horrigue - Portfolio</h4>
 
-## Languages
-- HTML5
-- CSS3
-- JavaScript
+## Author:
+<h4>Oussama Horrigue</h4>
 
-## Screenshot
+## Link:
+<a href="https://oussamahorrigue.github.io/architect-website/" target="_blank"><h3>https://oussamahorrigue.github.io/architect-website/</h3></a>
 
-![Screenshot (302)](https://user-images.githubusercontent.com/93200960/215093326-13249bd8-2956-48cc-b310-dd24bff344f4.png)
 
-## Demo
-https://user-images.githubusercontent.com/93200960/196207036-bd425f78-1be9-49fe-8474-98769cef3eea.mp4
+## Connect with me:
+<p align="left">
 
-## 🚀 About Me
-I'm a self tought frontend web developer...
+<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OussamaHorrig"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/oussamahorrigue/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/oussama.horrigue"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-me-karanchandekar.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chandekar-a87263219/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanchandekar1)
+</p>
+
